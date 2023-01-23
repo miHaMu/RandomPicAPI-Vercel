@@ -1,7 +1,7 @@
 {
   "functions": {
     "api/index.php": {
-      "runtime": "netlify-php@0.5.2"
+      "runtime": "package-php@0.5.2"
     }
   },
   "routes": [
